@@ -1,7 +1,7 @@
 {
-    "cid": "",
-    "alias": "",
-    "pid": "",
+    "cid": "1416536277832717",
+    "alias": "tomasz-dev2",
+    "pid": "DE_1416536277832718",
     "platform": "https://api.beamable.com",
     "socket": "https://api.beamable.com",
     "containerPrefix": ""
