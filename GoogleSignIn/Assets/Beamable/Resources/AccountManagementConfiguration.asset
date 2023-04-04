@@ -15,9 +15,10 @@ MonoBehaviour:
   Facebook: 0
   Apple: 0
   Google: 1
+  GooglePlayGames: 0
   GoogleClientID: 656526691648-949eji0gij20qrhpt74j20pqpqrokg9g.apps.googleusercontent.com
-  GoogleIosClientID: 
-  EnableGoogleSignInOnApple: 0
+  GoogleIosClientID: 656526691648-949eji0gij20qrhpt74j20pqpqrokg9g.apps.googleusercontent.com
+  EnableGoogleSignInOnApple: 1
   DisplayNameStat: {fileID: 11400000, guid: 6b23cc10f2e954e67bd6c1760605d646, type: 2}
   SubtextLabel: 
   SubtextStat: {fileID: 0}
